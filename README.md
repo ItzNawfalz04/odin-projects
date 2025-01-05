@@ -1,2 +1,2 @@
-# odin-projects
-The Odin Project Recipes
+# THE ODIN PROJECT
+ItzNawfalz04 Collection of The Odin Project
