@@ -1,2 +1,2 @@
-# THE ODIN PROJECT
-ItzNawfalz04 Collection of The Odin Project
+# The Odin Project: Recipes
+```odin-recipes``` created by [ItzNawfalz04](https://github.com/ItzNawfalz04).
